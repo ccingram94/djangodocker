@@ -37,6 +37,3 @@ test:
   script:
     - cd app
     - pytest -p no:warnings --cov=.
-    - flake8 .
-    - black --check --exclude=migrations .
-    - isort . --check-only

@@ -1,3 +1,3 @@
-# Test-Driven Development with Django, Django REST Framework, and Docker
+# ✨ Test-Driven Development with Django, Django REST Framework, and Docker ✨
 
-## This is a Python based movie app with RESTful API endpoints.
+## This is a Django web app with RESTful API endpoints, Docker containerization, and CI/CD via Gitlab and Heroku
